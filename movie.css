@@ -1,0 +1,13 @@
+h2 {
+    color: blue;
+    text-align: center;
+    background: yellow;
+    margin-left: 425px;
+    margin-right: 425px;
+    border-radius: 25px;
+}
+
+h4 {
+    color: blue;
+    background: yellow;
+}

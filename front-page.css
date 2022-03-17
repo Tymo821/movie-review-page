@@ -1,0 +1,28 @@
+h1 {
+    color: darkblue;
+    font: bolder;
+    text-align-last:center;
+}
+
+p {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: bold;
+   text-align: center;
+   color: blue;
+   background: white;
+   margin: 25px;
+   margin-left: 150px;
+   margin-right: 150px;
+}
+
+body {
+    background: url("https://images.pond5.com/film-reel-loop-024833673_prevstill.jpeg");
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: bold;
+   text-align: center;
+   color: darkblue;
+}
+
